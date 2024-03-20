@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StrategyPatternTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-03-20T19:56:17" hostname="Serizes-MacBook-Pro.local" time="2.712">
+  <properties/>
+  <testcase name="paymentProcessorClassTest()" classname="StrategyPatternTest" time="0.183"/>
+  <testcase name="payPalPaymentClassTest()" classname="StrategyPatternTest" time="0.005"/>
+  <testcase name="testCreatedInstancesInMainMethod()" classname="StrategyPatternTest" time="2.452"/>
+  <testcase name="orderClassTest()" classname="StrategyPatternTest" time="0.003"/>
+  <testcase name="bitcoinPaymentClassTest()" classname="StrategyPatternTest" time="0.001"/>
+  <testcase name="testInvokedMethodsOfPaymentClassesInMainMethod()" classname="StrategyPatternTest" time="0.061"/>
+  <testcase name="creditCardPaymentClassTest()" classname="StrategyPatternTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

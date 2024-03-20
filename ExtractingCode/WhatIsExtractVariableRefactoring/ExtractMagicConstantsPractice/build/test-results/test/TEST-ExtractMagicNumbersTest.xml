@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExtractMagicNumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-20T18:20:25" hostname="Serizes-MacBook-Pro.local" time="1.99">
+  <properties/>
+  <testcase name="testExtractedConstant()" classname="ExtractMagicNumbersTest" time="1.99"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

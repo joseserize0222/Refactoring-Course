@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MovingTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-20T17:44:09" hostname="Serizes-MacBook-Pro.local" time="2.046">
+  <properties/>
+  <testcase name="testStartMethodMovedToCarClass()" classname="MovingTest" time="1.965"/>
+  <testcase name="carClassTest()" classname="MovingTest" time="0.015"/>
+  <testcase name="driverClassTest()" classname="MovingTest" time="0.002"/>
+  <testcase name="testStopMethodMovedToCarClass()" classname="MovingTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
